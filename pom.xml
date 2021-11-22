@@ -5,7 +5,8 @@
 	<groupId>com.mindtree</groupId>
 	<artifactId>ComprehensiveAssessment_TestNG_Hybrid_Framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<plugins>
+	<build>
+		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -26,6 +27,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+	</build>
 	<dependencies>
 		<dependency>
 			<groupId>org.testng</groupId>
