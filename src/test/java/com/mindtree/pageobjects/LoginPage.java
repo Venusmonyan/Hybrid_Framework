@@ -112,7 +112,7 @@ public class LoginPage extends OpenChrome{
 		
 		//Type Nothing in Email and Password Text Field
 		wdh.sendText(AppUI.loginEmail, driver, logger, "", "Email");
-		wdh.sendText(AppUI.Password, driver, logger, "", "Password");
+		wdh.sendText(AppUI.loginPass, driver, logger, "", "Password");
 		logger.info("Entered The Details of Email and Password as Empty");
 
 		//click on the Login Button
