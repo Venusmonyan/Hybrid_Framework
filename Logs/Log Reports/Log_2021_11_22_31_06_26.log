@@ -1,0 +1,6 @@
+2021-11-22 06:31:27,201  INFO [main] HomePage:15 - Successfully Entered the Text: "Lord Shiva" in the Search Bar Field
+ 2021-11-22 06:31:27,289  INFO [main] HomePage:20 - Successfully clicked "Search Icon" Button
+ 2021-11-22 06:31:27,383 ERROR [main] HomePage:57 - Search Icon Click FAILED, coudn't navigate to Search Found Page
+ 2021-11-22 06:31:28,150  INFO [main] HomePage:15 - Successfully Entered the Text: "Lord Shiva" in the Search Bar Field
+ 2021-11-22 06:31:29,769  INFO [main] HomePage:26 - Successfully Pressed the ENTER button In Keyboard)]
+ 

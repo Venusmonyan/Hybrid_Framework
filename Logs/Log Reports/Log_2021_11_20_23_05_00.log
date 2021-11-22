@@ -1,0 +1,23 @@
+2021-11-20 17:23:00,529  INFO [main] HomePage:16 - Successfully Entered the Text: "Lord Shiva" in the Search Bar Field
+ 2021-11-20 17:23:00,589  INFO [main] HomePage:21 - Successfully clicked "Search Icon" Button
+ 2021-11-20 17:23:00,693 ERROR [main] HomePage:59 - Search Icon Click FAILED, coudn't navigate to Search Found Page
+ 2021-11-20 17:23:01,413  INFO [main] HomePage:16 - Successfully Entered the Text: "Lord Shiva" in the Search Bar Field
+ 2021-11-20 17:23:03,670  INFO [main] HomePage:27 - Successfully Pressed the ENTER button In Keyboard)]
+ 2021-11-20 17:23:03,792  INFO [main] HomePage:84 - Navigated to Search Results Page
+ 2021-11-20 17:23:06,351  INFO [main] HomePage:21 - Successfully clicked "Personalized Gifts" Button
+ 2021-11-20 17:23:07,372  INFO [main] HomePage:110 - Navigated to Personalized Gifts Page
+ 2021-11-20 17:23:09,829  INFO [main] HomePage:21 - Successfully clicked "new" Button
+ 2021-11-20 17:23:11,202  INFO [main] HomePage:136 - Navigated to What's New Page
+ 2021-11-20 17:23:15,760  INFO [main] HomePage:21 - Successfully clicked "TOP50" Button
+ 2021-11-20 17:23:16,776  INFO [main] HomePage:160 - Navigated to Most Popular Gifts Page
+ 2021-11-20 17:23:19,822  INFO [main] HomePage:21 - Successfully clicked "Christmas Gifts" Button
+ 2021-11-20 17:23:20,839  INFO [main] HomePage:186 - Navigated to Christmas Gifts Page
+ 2021-11-20 17:23:23,297  INFO [main] HomePage:21 - Successfully clicked "Secret Christmas Gifts" Button
+ 2021-11-20 17:23:24,310  INFO [main] HomePage:210 - Navigated to Secret Christmas Gifts Page
+ 2021-11-20 17:23:26,690  INFO [main] HomePage:21 - Successfully clicked "All of It" Button
+ 2021-11-20 17:23:27,707  INFO [main] HomePage:235 - Navigated to All of it Gifts Page
+ 2021-11-20 17:23:29,834  INFO [main] HomePage:21 - Successfully clicked "Gift Cards" Button
+ 2021-11-20 17:23:30,848  INFO [main] HomePage:261 - Navigated to Gift Cards Page
+ 2021-11-20 17:23:33,554  INFO [main] HomePage:21 - Successfully clicked "Wish List" Button
+ 2021-11-20 17:23:34,561  INFO [main] HomePage:286 - Navigated to Wish List Page
+ 

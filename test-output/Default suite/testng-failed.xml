@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.mindtree.pageobjects.HomePage">
+        <methods>
+          <include name="personalizedGifts"/>
+          <include name="secretChristmasGifts"/>
+          <include name="searchBarByEnterKey"/>
+          <include name="wishList"/>
+          <include name="christmasGifts"/>
+          <include name="topFiftyModule"/>
+          <include name="setup"/>
+          <include name="Initialize"/>
+          <include name="allOfIt"/>
+          <include name="giftCards"/>
+          <include name="tearDown"/>
+          <include name="newModule"/>
+        </methods>
+      </class> <!-- com.mindtree.pageobjects.HomePage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

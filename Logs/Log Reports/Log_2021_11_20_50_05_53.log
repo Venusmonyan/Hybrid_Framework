@@ -1,0 +1,35 @@
+2021-11-20 17:50:57,157  INFO [main] LoginPage:21 - Successfully clicked "Create new Account" Button
+ 2021-11-20 17:50:57,407  INFO [main] LoginPage:16 - Successfully Entered the Text: "a" in the First Name Field
+ 2021-11-20 17:50:57,588  INFO [main] LoginPage:16 - Successfully Entered the Text: "b" in the Last Name Field
+ 2021-11-20 17:50:57,775  INFO [main] LoginPage:16 - Successfully Entered the Text: "x123x123x@gmail.com" in the Email Field
+ 2021-11-20 17:50:57,894  INFO [main] LoginPage:16 - Successfully Entered the Text: "123456" in the Password Field
+ 2021-11-20 17:50:57,895  INFO [main] LoginPage:79 - Entered the Registration Details
+ 2021-11-20 17:50:57,956  INFO [main] LoginPage:21 - Successfully clicked "Create Account" Button
+ 2021-11-20 17:51:00,094  INFO [main] LoginPage:96 - Failed to Register the User with Invalid EmailID
+ 2021-11-20 17:51:02,672  INFO [main] LoginPage:21 - Successfully clicked "Create new Account" Button
+ 2021-11-20 17:51:02,843  INFO [main] LoginPage:16 - Successfully Entered the Text: "a" in the First Name Field
+ 2021-11-20 17:51:03,031  INFO [main] LoginPage:16 - Successfully Entered the Text: "b" in the Last Name Field
+ 2021-11-20 17:51:03,174  INFO [main] LoginPage:16 - Successfully Entered the Text: "abc@a123456.com" in the Email Field
+ 2021-11-20 17:51:03,300  INFO [main] LoginPage:16 - Successfully Entered the Text: "12345" in the Password Field
+ 2021-11-20 17:51:03,300  INFO [main] LoginPage:79 - Entered the Registration Details
+ 2021-11-20 17:51:03,358  INFO [main] LoginPage:21 - Successfully clicked "Create Account" Button
+ 2021-11-20 17:51:05,477  INFO [main] LoginPage:96 - Failed to Register the User with Invalid EmailID
+ 2021-11-20 17:51:08,079  INFO [main] LoginPage:21 - Successfully clicked "Create new Account" Button
+ 2021-11-20 17:51:08,415  INFO [main] LoginPage:16 - Successfully Entered the Text: "a" in the First Name Field
+ 2021-11-20 17:51:08,569  INFO [main] LoginPage:16 - Successfully Entered the Text: "b" in the Last Name Field
+ 2021-11-20 17:51:08,698  INFO [main] LoginPage:16 - Successfully Entered the Text: "abc@a123456.com" in the Email Field
+ 2021-11-20 17:51:08,826  INFO [main] LoginPage:16 - Successfully Entered the Text: "12346" in the Password Field
+ 2021-11-20 17:51:08,827  INFO [main] LoginPage:79 - Entered the Registration Details
+ 2021-11-20 17:51:08,903  INFO [main] LoginPage:21 - Successfully clicked "Create Account" Button
+ 2021-11-20 17:51:11,057  INFO [main] LoginPage:96 - Failed to Register the User with Invalid EmailID
+ 2021-11-20 17:51:12,340  INFO [main] LoginPage:21 - Successfully clicked "Sign In" Button
+ 2021-11-20 17:51:12,601  INFO [main] LoginPage:16 - Successfully Entered the Text: "" in the Email Field
+ 2021-11-20 17:51:12,754  INFO [main] LoginPage:16 - Successfully Entered the Text: "" in the Password Field
+ 2021-11-20 17:51:12,754  INFO [main] LoginPage:116 - Entered The Details of Email and Password as Empty
+ 2021-11-20 17:51:12,824  INFO [main] LoginPage:21 - Successfully clicked "Login" Button
+ 2021-11-20 17:51:16,392  INFO [main] LoginPage:21 - Successfully clicked "Sign In" Button
+ 2021-11-20 17:51:18,593  INFO [main] LoginPage:16 - Successfully Entered the Text: "x123x123x@gmail.com" in the Email Field
+ 2021-11-20 17:51:18,842  INFO [main] LoginPage:16 - Successfully Entered the Text: "123456" in the Password Field
+ 2021-11-20 17:51:18,912  INFO [main] LoginPage:21 - Successfully clicked "Login" Button
+ 2021-11-20 17:51:21,619  INFO [main] LoginPage:164 - User Logged in with Valid Login Details
+ 
